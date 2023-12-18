@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/AbrahamEspina/order-sumary-component)
-- Live Site URL: [Add live site URL here](https://abraham-portfolio-2022.netlify.app/)
+- Live Site URL: [Add live site URL here](https://order-sumary-component-234.netlify.app/)
 
 ### Built with
 
@@ -36,5 +36,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Abraham Espinosa](https://www.your-site.com)
+- Website - [Abraham Espinosa](https://abraham-portfolio-2022.netlify.app/)
 - Frontend Mentor - [@AbrahamEspina](https://www.frontendmentor.io/profile/yourusername)
