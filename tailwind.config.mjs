@@ -10,10 +10,6 @@ export default {
 				desaturatedBlue: 'hsl(224, 23%, 55%)',
 				darkBlue: 'hsl(223, 47%, 23%)',
 			},
-			backgroundImage: {
-        'background-mobile': "url('.src/assets/pattern-background-mobile.svg')",
-        'background-desktop': "url('./src/assets/pattern-background-desktop.svg')",
-      }
 		},
 	},
 	plugins: [],

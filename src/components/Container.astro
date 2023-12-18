@@ -1,6 +1,16 @@
 ---
 ---
 
-<main class='w-full h-screen flex flex-col justify-centers bg-paleBlue bg-background-mobile bg-no-repeat md:bg-background-desktop'>
+<main class={`w-full h-screen flex flex-col justify-centers bg-paleBlue bg-no-repeat`}>
   <slot/>
 </main>
+<style>
+  main{
+    background-image: url('../assets/pattern-background-desktop.svg');
+  }
+  @media only screen and (max-width: 600px) {
+    main{
+      background-image: url('../assets/pattern-background-mobile.svg');
+    }
+  }
+</style>
