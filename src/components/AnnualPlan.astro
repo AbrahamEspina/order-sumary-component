@@ -1,0 +1,12 @@
+---
+import { Image } from 'astro:assets';
+import MusicIcon from '../assets/icon-music.svg';
+---
+<div class='w-[90%] p-4 m-auto rounded-2xl flex gap-[10px] justify-around bg-veryPaleBlue'>
+  <Image src={MusicIcon} alt='music icon' />
+  <div>
+    <h2 class='text-darkBlue font-extrabold'>Annual Plan</h2>
+    <p class='text-desaturatedBlue'>$59.99/year</p>
+  </div>
+  <button class='transition-colors text-brightBlue font-bold underline hover:text-[#766cf1] hover:no-underline'>Change</button>
+</div>
